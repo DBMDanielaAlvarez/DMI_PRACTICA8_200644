@@ -1,16 +1,61 @@
-# movieapp_200644
+# DMI_PRACTICA8_200644
 
-A new Flutter project.
+[![Encabezado.png](https://i.postimg.cc/PJKtvHNC/Encabezado.png)](https://postimg.cc/K3kXCdPb)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
+## Ingeniería en Desarrollo y Gestión de Software
 
-A few resources to get you started if this is your first Flutter project:
+## Desarrollo Movil Integral
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Daniela Álvarez Ramírez
+ 
+## 10° "A"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Septiempre - Diciembre
+
+
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Práctica 8: Renderizado del poster de Peliculas Populares. |
+| Descripción  |  En esta práctica se sigue trabajando con la aplicación de "MovieDB", la cual consiste en crear una aplicación que muestre una interfas de recomendación de peliculas. Para ello, se implememnta el API de "www.themoviedb.org", para ocuparla y de momento mostrar las peliculas más populares.|
+|  Fecha de Actividad  |  27 de Septiembre de 2023  |
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Salida
+
+<p align="justify">
+  Las imagenes es a como se tenia en refencia a la practica número 7. Para en el siguiente apartado, visualizar los cambios realizados. 
+</p>
+<p align="center">
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/inicialIcono.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/inicialInicio.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/inicialMenu.jpg" width="30%"/>
+</p>
+<p>
+  Ahora, se muestran los cambios realizados, como el cambio de nombre de la aplicación, la implemetación de la API, y un nuevo diseño; es decir, se cambia el color del Drawer, asi como el BottomNavigationBar
+</p>
+Ahora, se muestran los cambios realizados, como el cambio de nombre de la aplicación, la implemetación de la API, y un nuevo diseño; es decir, se cambia el color del Drawer, asi como el BottomNavigationBar
+<p align="center">
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/finalIcono.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/finalInicio.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/finalMenu.jpg" width="30%"/>
+</p>
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+[![Pie-de-Practica.jpg](https://i.postimg.cc/MKKZ2nrV/Pie-de-Practica.jpg)](https://postimg.cc/WtCc01V1)
