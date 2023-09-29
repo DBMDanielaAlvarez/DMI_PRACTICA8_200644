@@ -47,7 +47,7 @@
 Ahora, se muestran los cambios realizados, como el cambio de nombre de la aplicación, la implemetación de la API, y un nuevo diseño; es decir, se cambia el color del Drawer, asi como el BottomNavigationBar
 <p align="center">
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/finalIcono.jpg" width="30%"/>
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/finalInicio.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/finalInicio.png" width="30%"/>
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA8_200644/blob/main/screenshots/finalMenu.jpg" width="30%"/>
 </p>
 
